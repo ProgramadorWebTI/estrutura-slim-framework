@@ -1,0 +1,23 @@
+{
+  "name": "estrutura-slim-framework",
+  "version": "1.0.0",
+  "description": "slim framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramadorWebTI/estrutura-slim-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgramadorWebTI/estrutura-slim-framework/issues"
+  },
+  "homepage": "https://github.com/ProgramadorWebTI/estrutura-slim-framework#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
