@@ -12,7 +12,6 @@ class HomeController extends Controller
     public function index(Request $req, Response $res, array $args)
     {
         // $this->c->paginacao->render(); Paginação
-        print_r($req->getParamns());
         echo $this->c->blade->make('home');
     }
 }
